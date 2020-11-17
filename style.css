@@ -1,0 +1,8 @@
+:root{
+  --background-col: #faf4ea;
+  --primary-font:#80459b;
+}
+
+canvas{
+  vertical-align: bottom;
+}
